@@ -7,6 +7,6 @@ public class GitPractice {
 
 
 
-        System.out.println("Kanat");
+        System.out.println("Kanat..");
     }
 }
