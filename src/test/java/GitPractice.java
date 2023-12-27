@@ -3,5 +3,10 @@ public class GitPractice {
         System.out.println("Baaber");
         System.out.println("your name");
         System.out.println("Azamat");
+
+
+
+
+        System.out.println("Kanat");
     }
 }
